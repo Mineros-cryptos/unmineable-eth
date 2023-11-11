@@ -25,6 +25,7 @@
         "numa": true,
         "scratchpad_prefetch_mode": 1
     },
+    // Solo habilitado del CPU (Intel, AMD y Otros procesadores)
     "cpu": {
         "enabled": true,
         "huge-pages": true,
